@@ -91,7 +91,6 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 ![](https://github-profile-trophy.vercel.app/?username=FilipeGS97&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-<br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{FilipeGS97}/count.svg" /></p> 
 
 </div>
