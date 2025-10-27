@@ -8,10 +8,10 @@
 
 <div align="center">
 
-### 👩‍💻 Sobre mim  
+### 👩‍💻 About Me  
 
-Estudante do curso de *Ciências da Computação, atuo como **Analista de Testes (QA)* com foco em *garantir a qualidade e confiabilidade de aplicações Web*.  
-Sou apaixonado por *boas práticas de testes*, automação e pela busca constante de melhorar processos de software.  
+Currently pursuing a degree in *Computer Science, I work as a **Quality Assurance (QA) Analyst* focused on ensuring the quality and reliability of web applications*.
+I am passionate about testing best practices, automation, and the continuous pursuit of improving software processes.
 
 </div>
 
@@ -19,7 +19,7 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 <div align="center">
 
-## ⚡ Status do Github  
+## ⚡ GitHub Status  
 
 <a href="https://github.com/FilipeGS97">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FilipeGS97&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -32,7 +32,7 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 <div align="left">
 
-## 🧪 Minhas Hard-Skills em Testes  
+## 🧪 My Testing Hard-Skills  
 
 
 <img align="center" alt="Cypress" height="32" width="40" src="https://cdn.simpleicons.org/cypress/69d3a7" />
@@ -50,7 +50,7 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 <div align="left">
 
-### 📖 Estudando atualmente  
+### 📖 Currently Studying  
 
 <img align="center" alt="Cypress" height="32" width="40" src="https://cdn.simpleicons.org/cypress/69d3a7" />
 <img align="center" alt="Appium" height="32" width="40" src="https://cdn.simpleicons.org/Appium" />
@@ -62,7 +62,7 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 <div align="left">
 
-## 🛠 Ferramentas de trabalho  
+## 🛠 Work Tools  
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-000?style=for-the-badge&logo=Visual-Studio-Code&logoColor=D83B7D&color:141321)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=Git&logoColor=D83B7D&color:141321)
@@ -76,7 +76,7 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 <div align="left">
 
-## 📫 Onde me encontrar  
+## 📫 Where to Find Me  
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=D83B7D&&color:141321)](mailto:filipegabriel.qatech@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D83B7D&&color:141321)](https://www.linkedin.com/in/filipe-gabriel-qaengineer/)
