@@ -10,7 +10,7 @@
 
 ### 👩‍💻 Sobre mim  
 
-Formado em *Análise e Desenvolvimento de Sistemas, atuo como **Analista de Testes (QA)* com foco em *garantir a qualidade e confiabilidade de aplicações*.  
+Estudante do curso de *Ciências da Computação, atuo como **Analista de Testes (QA)* com foco em *garantir a qualidade e confiabilidade de aplicações Web*.  
 Sou apaixonado por *boas práticas de testes*, automação e pela busca constante de melhorar processos de software.  
 
 </div>
@@ -34,13 +34,15 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 ## 🧪 Minhas Hard-Skills em Testes  
 
-<img align="center" alt="Jest" height="32" width="40" src="https://cdn.simpleicons.org/jest/99425b" />
+
 <img align="center" alt="Cypress" height="32" width="40" src="https://cdn.simpleicons.org/cypress/69d3a7" />
-<img align="center" alt="Playwright" height="32" width="40" src="https://cdn.simpleicons.org/microsoftplaywright/2e4c8f" />
+<img align="center" alt="Python" height="32" width="40" src="https://cdn.simpleicons.org/python" />
 <img align="center" alt="Postman" height="32" width="40" src="https://cdn.simpleicons.org/postman/ef5b25" />
 <img align="center" alt="Selenium" height="32" width="40" src="https://cdn.simpleicons.org/selenium/43b02a" />
+<img align="center" alt="Appium" height="32" width="40" src="https://cdn.simpleicons.org/Appium" />
 <img align="center" alt="Jira" height="32" width="40" src="https://cdn.simpleicons.org/jira/0052cc" />
 <img align="center" alt="Git" height="32" width="40" src="https://cdn.simpleicons.org/git" />
+<img align="center" alt="Jenkins" height="32" width="40" src="https://cdn.simpleicons.org/jenkins" />
 
 </div>
 
@@ -50,8 +52,8 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 ### 📖 Estudando atualmente  
 
-<img align="center" alt="Playwright" height="32" width="40" src="https://cdn.simpleicons.org/microsoftplaywright/2e4c8f" />
-<img align="center" alt="Robot Framework" height="32" width="40" src="https://cdn.simpleicons.org/robotframework/000000" />
+<img align="center" alt="Cypress" height="32" width="40" src="https://cdn.simpleicons.org/cypress/69d3a7" />
+<img align="center" alt="Appium" height="32" width="40" src="https://cdn.simpleicons.org/Appium" />
 <img align="center" alt="Docker" height="32" width="40" src="https://cdn.simpleicons.org/docker/2496ed" />
 
 </div>
@@ -67,7 +69,7 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=GitHub&logoColor=D83B7D&color:141321)
 ![Postman](https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=Postman&logoColor=D83B7D&color:141321)
 ![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=Jira&logoColor=D83B7D&color:141321)
-
+![Jira](https://img.shields.io/badge/asana-000?style=for-the-badge&logo=asana&logoColor=D83B7D&color:141321)
 </div>
 
 ---
@@ -76,8 +78,8 @@ Sou apaixonado por *boas práticas de testes*, automação e pela busca constant
 
 ## 📫 Onde me encontrar  
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=D83B7D&&color:141321)](mailto:devtiagoforward@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D83B7D&&color:141321)](https://www.linkedin.com/in/tiago-lacerda-devfrontend/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=D83B7D&&color:141321)](mailto:filipegabriel.qatech@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=D83B7D&&color:141321)](https://www.linkedin.com/in/filipe-gabriel-qaengineer/)
 
 </div>
 
